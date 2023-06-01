@@ -99,6 +99,6 @@ sh scripts/finetune_ChatGLM.sh
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ustbHCX/ChatGLM-Lora-medical}},
+  howpublished = {\url{https://github.com/ustbHCX/ChatGLM-LoRA-medical}},
 }
 ```
